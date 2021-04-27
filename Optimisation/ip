@@ -1,0 +1,25 @@
+x = y 
+z = 3 + y
+t0 =  10
+n  = t0
+t1 =  0
+c  = t1
+t2 =  0
+i  = t2
+label l0
+t3 =  i
+t4 =  n
+t5 = t3 < t4
+iffalse t5 goto l1
+t9 =  1
+c  = t9
+t6 =  i
+t7 =  1
+t8 = t6 + t7
+goto l0
+label l1
+a = 10
+b = 20
+t10 = 4*j
+t11[t10] = 100
+label l2
