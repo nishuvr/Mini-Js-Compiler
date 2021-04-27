@@ -1,0 +1,17 @@
+var a;
+a=10;
+var c=9;
+c++;
+b<c;
+var b=a+c;
+var d=0;
+do
+{
+    do{
+        e=e+1;
+    }while(a<10);
+}while(v<10);
+
+
+
+
